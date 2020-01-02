@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000mm"
+   height="2000mm"
+   viewBox="0 0 2000 2000"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="unix_part.svg"
+   inkscape:export-filename="/home/alef/src/taf/dci/cours/nfa003/images/unix_part.png"
+   inkscape:export-xdpi="159.506"
+   inkscape:export-ydpi="159.506">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56396484"
+     inkscape:cx="1141.4056"
+     inkscape:cy="670.45944"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1045"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,1703)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.46821117;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="128.72054"
+       height="63.508873"
+       x="33.339935"
+       y="124.6183" />
+    <rect
+       y="124.6183"
+       x="161.92705"
+       height="63.508873"
+       width="128.72054"
+       id="rect817"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.46821117;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.46821117;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect819"
+       width="128.72054"
+       height="63.508873"
+       x="290.51382"
+       y="124.6183" />
+    <rect
+       y="124.48089"
+       x="420.02423"
+       height="63.543644"
+       width="231.49886"
+       id="rect821"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.54612637;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.63888931px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="48.322308"
+       y="163.20209"
+       id="text825"><tspan
+         sodipodi:role="line"
+         id="tspan823"
+         x="48.322308"
+         y="163.20209"
+         style="font-size:17.63888931px;stroke-width:0.26458332">Boot block</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.69999981px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="176.09982"
+       y="161.49246"
+       id="text829"><tspan
+         sodipodi:role="line"
+         id="tspan827"
+         x="176.09982"
+         y="161.49246"
+         style="font-size:17.63888931px;stroke-width:0.26458332">Superblock</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.69444466px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="307.91943"
+       y="163.20209"
+       id="text833"><tspan
+         sodipodi:role="line"
+         id="tspan831"
+         x="307.91943"
+         y="163.20209"
+         style="font-size:17.63888931px;stroke-width:0.26458332">i-node list</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.63888931px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="445.22205"
+       y="163.20209"
+       id="text837"><tspan
+         sodipodi:role="line"
+         id="tspan835"
+         x="445.22205"
+         y="163.20209"
+         style="font-size:17.63888931px;stroke-width:0.26458332">Data blocks ...</tspan></text>
+  </g>
+</svg>

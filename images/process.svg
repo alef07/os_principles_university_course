@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000mm"
+   height="2000mm"
+   viewBox="0 0 2000 2000"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="process.svg"
+   inkscape:export-filename="/home/alef/src/taf/dut/cours/nfa003/images/process.png"
+   inkscape:export-xdpi="160.09"
+   inkscape:export-ydpi="160.09">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.77243129"
+     inkscape:cx="186.14931"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,1703)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0f0000;stroke-width:4.02567101;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="186.46941"
+       height="224.5246"
+       x="32.00938"
+       y="18.437847" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.02567101;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 32.111026,48.654055 H 184.25256 216.88715"
+       id="path817"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.25489426px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3550418"
+       x="93.715164"
+       y="37.955578"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="93.715164"
+         y="37.955578"
+         style="stroke-width:0.3550418">Process 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.25489426px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3550418"
+       x="45.817802"
+       y="125.20178"
+       id="text825"><tspan
+         sodipodi:role="line"
+         id="tspan823"
+         x="45.817802"
+         y="125.20178"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.3550418">Processor state:</tspan><tspan
+         sodipodi:role="line"
+         x="45.817802"
+         y="141.7704"
+         style="stroke-width:0.3550418"
+         id="tspan827">RI,CO,etc.</tspan></text>
+    <text
+       id="text844"
+       y="175.99202"
+       x="45.817802"
+       style="font-style:normal;font-weight:normal;font-size:13.25489426px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3550418"
+       xml:space="preserve"><tspan
+         id="tspan842"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.3550418"
+         y="175.99202"
+         x="45.817802"
+         sodipodi:role="line">Main memory state:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.3550418"
+         y="192.56064"
+         x="45.817802"
+         sodipodi:role="line"
+         id="tspan848"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.3550418"
+           id="tspan850">addresses, etc.</tspan></tspan></text>
+    <text
+       id="text877"
+       y="79.164276"
+       x="45.817802"
+       style="font-style:normal;font-weight:normal;font-size:13.25489426px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3550418"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.3550418"
+         y="79.164276"
+         x="45.817802"
+         id="tspan873"
+         sodipodi:role="line">Executable name:</tspan><tspan
+         id="tspan875"
+         style="stroke-width:0.3550418"
+         y="95.732895"
+         x="45.817802"
+         sodipodi:role="line">myProgram1</tspan></text>
+  </g>
+</svg>
